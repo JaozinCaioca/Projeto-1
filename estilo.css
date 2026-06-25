@@ -26,6 +26,7 @@
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: aqua;
 }
 
 .main{
@@ -35,8 +36,13 @@
 
 .cabecalho-link{
     color:aquamarine;
+    text-decoration: none;
 }
 
 h1{
     color:aquamarine;
+}
+
+footer{
+    background-color: aqua;
 }
