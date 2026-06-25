@@ -30,4 +30,9 @@
 
 .main{
     flex: 1;
+
+}
+
+.cabecalho-link{
+    color:blueviolet;
 }
